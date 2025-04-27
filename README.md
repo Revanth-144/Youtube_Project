@@ -13,8 +13,8 @@ It replicates the layout and structure of YouTube's homepage, focusing on UI com
 - Realistic layout similar to YouTube's desktop design.
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Google Fonts (Roboto)
 - Icons and images to simulate YouTube UI elements
 
@@ -30,8 +30,6 @@ It replicates the layout and structure of YouTube's homepage, focusing on UI com
 
 > 📢 **Note:** This project is frontend-only and does not have video playing functionality or real backend/API integration.
 
-## Screenshots
-(Add screenshots here to show the final UI!)
 
 ## Future Improvements
 - Add responsiveness for mobile and tablet screens.
